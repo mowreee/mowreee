@@ -9,7 +9,10 @@ My focus: **.NET, AI, and Cloud Computing**, but I'm always open to learning new
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mowreee&show_icons=true&theme=merko" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mowreee&theme=merko" /> </p>
+<p align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mowreee&show_icons=true&theme=tokyonight" />  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mowreee&theme=tokyonight" />  
+</p>
 
 ## 🛠️ Tech Stack
 
