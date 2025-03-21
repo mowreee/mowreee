@@ -1,4 +1,8 @@
-![My Image](https://i.pinimg.com/736x/cd/19/e3/cd19e37b89bb6fbd8153411529669302.jpg)
+<p align="center">
+  <img src="https://i.pinimg.com/736x/cd/19/e3/cd19e37b89bb6fbd8153411529669302.jpg" width="800"/>
+</p>
+
+## 🚀 About Me
 
 
 ## 🚀 About Me
