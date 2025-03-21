@@ -2,23 +2,14 @@
   <img src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif" width="800"/>
 </p>
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif" width="800"/>
+</p>
 
-.pixel-text {
-  font-family: 'Press Start 2P', cursive;
-  font-size: 18px;
-  text-align: center;
-  color: #00ff00;
-}
-</style>
-
-<h1 class="pixel-text">Marc Christian C. Delos Santos</h1>
-
+# 🕹️ <span style="font-family: 'Press Start 2P', cursive;">Marc Christian C. Delos Santos</span> 
 
 Hey there! I'm **Marc**, a passionate developer who loves creating projects and exploring tech! 🚀  
 My focus: **.NET, AI, and Cloud Computing**, but I'm always open to learning new things.  
-
 
 ## 📊 GitHub Stats
 
