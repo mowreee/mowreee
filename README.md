@@ -54,6 +54,5 @@ I'm a passionate developer who loves creating projects and exploring tech!
 
 <p align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m2exjv3uwdl6dl2vb65mtotuau" width="500"/> </p>
 
-## 🌆 Contribution Graph
 
 
