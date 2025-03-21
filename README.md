@@ -69,6 +69,6 @@ I'm a passionate developer who loves creating projects and exploring tech!
   />
 </picture>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/58/5f/b8/585fb871dc5698ad1b71f838072cc335.gif" width="800"/>
+  <img src="https://i.pinimg.com/originals/58/5f/b8/585fb871dc5698ad1b71f838072cc335.gif" width="600"/>
 </p>
 
