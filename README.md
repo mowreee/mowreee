@@ -82,3 +82,6 @@
 </p>
 
 🔥 **Let's Build Something Awesome Together!** 🚀
+
+![Metrics](https://github.com/<your-username>/<your-repo>/blob/main/metrics.svg)
+
