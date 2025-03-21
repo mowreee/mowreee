@@ -25,10 +25,10 @@ I'm a passionate developer who loves creating projects and exploring tech!
   <a href="https://discord.com/users/800746704646307861"> 
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> 
   </a> 
-  <a href="https://open.spotify.com/user/yourprofile"> 
+  <a href="https://open.spotify.com/user/31m2exjv3uwdl6dl2vb65mtotuau?si=b438fc4072994704"> 
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/> 
   </a> 
-  <a href="https://steamcommunity.com/id/yourprofile"> 
+  <a href="https://steamcommunity.com/profiles/76561199729594197/"> 
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/> 
   </a> 
   <a href="https://www.riotgames.com/en"> 
