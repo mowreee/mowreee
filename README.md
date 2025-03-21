@@ -69,10 +69,4 @@ I'm a passionate developer who loves creating projects and exploring tech!
   />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mowreee/mowreee/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mowreee/mowreee/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/mowreee/mowreee/output/pacman-contribution-graph.svg">
-</picture>
-
 
