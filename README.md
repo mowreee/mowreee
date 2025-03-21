@@ -35,5 +35,9 @@ Hey there! I'm **[Your Name]**, a passionate developer who loves building cool p
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mowreee&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selerqc/selerqc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/selerqc/selerqc/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/selerqc/selerqc/output/pacman-contribution-graph.svg">
+</picture>
 
