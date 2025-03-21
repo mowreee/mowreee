@@ -4,9 +4,6 @@
 
 ## 🚀 About Me
 
-
-## 🚀 About Me
-
 Hey there! I'm Marc Christian C. Delos Santos, a passionate developer who loves building cool projects and exploring new technologies. My main focus is on **.NET, AI, and Cloud Computing**, but I’m always open to learning new things!
 
 - 🔭 I’m currently working on **SOA implementation in .NET**
