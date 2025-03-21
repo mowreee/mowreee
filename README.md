@@ -11,8 +11,8 @@ I'm a passionate developer who loves creating projects and exploring tech!
 - 📖 I'm still learning **Java, HTML, CSS, and Vite React**.  
 
 ## 📚 Technologies I Use
-- 🚀 **Proficient In:** C#, ASP.NET, .NET Core, SQL Server, Docker
-- 📘 **Still Learning:** Java, HTML, CSS, Vite React
+- 🚀 **Proficient In:** Java, HTML, CSS, Vite React 
+- 📘 **Still Learning:** C#, ASP.NET, .NET Core, SQL Server
 
 ## 🔗 Connect With Me
 <p align="center"> 
