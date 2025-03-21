@@ -33,7 +33,7 @@ Hey there! I'm Marc Christian C. Delos Santos, a passionate developer who loves 
 
 ---
 
-![Pixel Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/contributions?username=mowreee&theme=tokyonight)
+![Pixel Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/contributions?username=mowreee&theme=github_dark)
 
 
 ---
