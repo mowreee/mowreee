@@ -6,8 +6,35 @@
 
 I'm a passionate developer who loves creating projects and exploring tech!
 
-My focus: **.NET, AI, and Cloud Computing**, but I'm always open to learning new things.  
-I'm currently working with **C#, ASP.NET, and SQL Server**, and I'm still learning **Java, HTML, CSS, and Vite React**.  
+- 🔹 My focus: **.NET, AI, and Cloud Computing**, but I'm always open to learning new things.  
+- 💻 I'm currently working with **C#, ASP.NET, and SQL Server**.  
+- 📖 I'm still learning **Java, HTML, CSS, and Vite React**.  
+
+## 📚 Technologies I Use
+- 🚀 **Proficient In:** C#, ASP.NET, .NET Core, SQL Server, Docker
+- 📘 **Still Learning:** Java, HTML, CSS, Vite React
+
+## 🔗 Connect With Me
+<p align="center"> 
+  <a href="https://facebook.com/yourprofile"> 
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> 
+  </a> 
+  <a href="https://twitter.com/yourprofile"> 
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> 
+  </a> 
+  <a href="800746704646307861"> 
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> 
+  </a> 
+  <a href="https://open.spotify.com/user/yourprofile"> 
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/> 
+  </a> 
+  <a href="https://steamcommunity.com/id/yourprofile"> 
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/> 
+  </a> 
+  <a href="https://www.riotgames.com/en"> 
+    <img src="https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/> 
+  </a> 
+</p>
 
 ## 📊 GitHub Stats
 
@@ -28,13 +55,4 @@ I'm currently working with **C#, ASP.NET, and SQL Server**, and I'm still learni
 
 <p align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m2exjv3uwdl6dl2vb65mtotuau" width="500"/> </p>
 
-## 🔗 Connect With Me
-<p align="center">  
-  <a href="https://www.facebook.com/dlsmcc/">  
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>  
-  </a>  
-  <a href="https://www.instagram.com/mcydls_/">  
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>  
-  </a>  
-</p>
 
