@@ -34,49 +34,6 @@ Hey there! I'm **[Your Name]**, a passionate developer who loves building cool p
 ⭐️ *Feel free to star some of my projects and let's connect!*
 
 ---
-import os
-import subprocess
-from datetime import datetime, timedelta
-
-# Define the Space Invader pattern (1 = commit, 0 = no commit)
-invader = [
-    "0011100",
-    "0011100",
-    "1100011",
-    "1111111",
-    "1011101",
-    "1000001"
-]
-
-# Set the starting date (adjust as needed)
-start_date = datetime(2023, 1, 1)
-
-# Repository setup (change this to your repo's path)
-repo_path = "github-graph-art"
-
-# Create repo if not exists
-if not os.path.exists(repo_path):
-    os.makedirs(repo_path)
-os.chdir(repo_path)
-subprocess.run(["git", "init"])
-
-# Generate commits based on pattern
-for week, row in enumerate(invader):
-    for day, pixel in enumerate(row):
-        if pixel == "1":
-            commit_date = start_date + timedelta(weeks=week, days=day)
-            commit_message = f"Commit on {commit_date.strftime('%Y-%m-%d')}"
-            
-            with open("dummy.txt", "w") as f:
-                f.write(commit_message)
-            
-            subprocess.run(["git", "add", "dummy.txt"])
-            subprocess.run(["git", "commit", "-m", commit_message, "--date", commit_date.strftime('%Y-%m-%dT12:00:00')])
-
-# Push to GitHub (change 'main' to your branch)
-subprocess.run(["git", "branch", "-M", "main"])
-subprocess.run(["git", "remote", "add", "origin", "https://github.com/mowreee/github-graph-art.git"])
-subprocess.run(["git", "push", "-u", "origin", "main"])
 
 
 
