@@ -39,7 +39,8 @@ Hey there! I'm Marc Christian C. Delos Santos, a passionate developer who loves 
 ⭐️ *Feel free to star some of my projects and let's connect!*
 
 ---
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31m2exjv3uwdl6dl2vb65mtotuau)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark)
+
 
 
 
