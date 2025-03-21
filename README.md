@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm **[Your Name]**, a passionate developer who loves building cool projects and exploring new technologies. My main focus is on **.NET, AI, and Cloud Computing**, but I’m always open to learning new things!
+Hey there! I'm Marc Christian C. Delos Santos, a passionate developer who loves building cool projects and exploring new technologies. My main focus is on **.NET, AI, and Cloud Computing**, but I’m always open to learning new things!
 
 - 🔭 I’m currently working on **SOA implementation in .NET**
 - 🌱 I’m learning **SOLID principles and microservices architecture**
@@ -34,7 +34,7 @@ Hey there! I'm **[Your Name]**, a passionate developer who loves building cool p
 ⭐️ *Feel free to star some of my projects and let's connect!*
 
 ---
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31m2exjv3uwdl6dl2vb65mtotuau)
 
 
 
