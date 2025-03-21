@@ -32,3 +32,8 @@ Hey there! I'm **[Your Name]**, a passionate developer who loves building cool p
 ---
 
 ⭐️ *Feel free to star some of my projects and let's connect!*
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mowreee&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
