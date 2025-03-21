@@ -8,7 +8,6 @@ I'm a passionate developer who loves creating projects and exploring tech!
 
 - 🔹 My focus: **.NET, AI, and Cloud Computing**, but I'm always open to learning new things.  
 - 💻 I'm currently working with **C#, ASP.NET, and SQL Server**.  
-- 📖 I'm still learning **Java, HTML, CSS, and Vite React**.  
 
 ## 📚 Technologies I Use
 - 🚀 **Proficient In:** Java, HTML, CSS, Vite React 
