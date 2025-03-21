@@ -54,4 +54,10 @@ I'm a passionate developer who loves creating projects and exploring tech!
 
 <p align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m2exjv3uwdl6dl2vb65mtotuau" width="500"/> </p>
 
+## 🌆 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mowreee/mowreee/output/pixel-city-skyline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mowreee/mowreee/output/pixel-city-skyline.svg">
+  <img alt="Pixel City Skyline Contribution Graph" src="https://raw.githubusercontent.com/mowreee/mowreee/output/pixel-city-skyline.svg">
+</picture>
 
