@@ -39,7 +39,10 @@ Hey there! I'm Marc Christian C. Delos Santos, a passionate developer who loves 
 ⭐️ *Feel free to star some of my projects and let's connect!*
 
 ---
-![Wave](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer)
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m2exjv3uwdl6dl2vb65mtotuau" alt="Spotify Now Playing" width="500"/>
+</p>
+
 
 
 
