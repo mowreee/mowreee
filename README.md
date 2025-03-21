@@ -39,7 +39,8 @@ Hey there! I'm Marc Christian C. Delos Santos, a passionate developer who loves 
 ⭐️ *Feel free to star some of my projects and let's connect!*
 
 ---
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark)
+![Wave](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer)
+
 
 
 
