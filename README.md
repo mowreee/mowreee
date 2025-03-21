@@ -54,5 +54,19 @@ I'm a passionate developer who loves creating projects and exploring tech!
 
 <p align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m2exjv3uwdl6dl2vb65mtotuau" width="500"/> </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
