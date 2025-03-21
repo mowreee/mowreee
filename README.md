@@ -4,8 +4,15 @@
 
 # 🕹️ <span style="font-family: 'Press Start 2P', cursive;">Marc Christian C. Delos Santos</span> 
 
-Hey there! I'm **Marc**, a passionate developer who loves creating projects and exploring tech! 🚀  
-My focus: **.NET, AI, and Cloud Computing**, but I'm always open to learning new things.  
+I'm a passionate developer who loves creating projects and exploring tech!
+
+**Main Focus:** Java, HTML, CSS, ASP.NET, C#, and Vue React
+
+- 💻 **Full-Stack Development:** Building modern web applications
+- 📚 **Lifelong Learner:** Exploring **SOLID principles, scalable architectures, and cloud solutions**
+- 🤝 **Collaboration:** Open to contributing to **open-source projects** in **.NET, Java, and web development**
+- ⚡ **Passionate About:** Creating **interactive, scalable, and high-performance applications**
+- 🎯 **Future Goals:** Learning more about **DevOps, microservices, and AI integrations**
 
 ## 📊 GitHub Stats
 
