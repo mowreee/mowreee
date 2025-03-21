@@ -6,13 +6,8 @@
 
 I'm a passionate developer who loves creating projects and exploring tech!
 
-**Main Focus:** Java, HTML, CSS, ASP.NET, C#, and Vue React
-
-- 💻 **Full-Stack Development:** Building modern web applications
-- 📚 **Lifelong Learner:** Exploring **SOLID principles, scalable architectures, and cloud solutions**
-- 🤝 **Collaboration:** Open to contributing to **open-source projects** in **.NET, Java, and web development**
-- ⚡ **Passionate About:** Creating **interactive, scalable, and high-performance applications**
-- 🎯 **Future Goals:** Learning more about **DevOps, microservices, and AI integrations**
+My focus: **.NET, AI, and Cloud Computing**, but I'm always open to learning new things.  
+I'm currently working with **C#, ASP.NET, and SQL Server**, and I'm still learning **Java, HTML, CSS, and Vite React**.  
 
 ## 📊 GitHub Stats
 
