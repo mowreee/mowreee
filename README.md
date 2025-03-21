@@ -2,14 +2,11 @@
   <img src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif" width="800"/>
 </p>
 
-## 🚀 About Me
+# 🕹️ <span style="font-family: 'Press Start 2P', cursive;">Marc Christian C. Delos Santos</span> 
 
-Hey there! I'm Marc Christian C. Delos Santos, a passionate developer who loves building cool projects and exploring new technologies. My main focus is on **.NET, AI, and Cloud Computing**, but I’m always open to learning new things!
+Hey there! I'm **Marc**, a passionate developer who loves creating projects and exploring tech! 🚀  
+My focus: **.NET, AI, and Cloud Computing**, but I'm always open to learning new things.  
 
-- 🔭 I’m currently working on **SOA implementation in .NET**
-- 🌱 I’m learning **SOLID principles and microservices architecture**
-- 👯 I’m looking to collaborate on **open-source .NET projects**
-- 💬 Ask me about **C#, ASP.NET, and AI applications**
 
 ## 📊 GitHub Stats
 
@@ -32,9 +29,6 @@ Hey there! I'm Marc Christian C. Delos Santos, a passionate developer who loves 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 ---
-
-![Pixel Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/contributions?username=mowreee&theme=github_dark)
-
 
 ---
 <p align="center">
