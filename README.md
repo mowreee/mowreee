@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif" width="800"/>
 </p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/43/1c/e5/431ce5d15aab86f66a91ec9a07c9114f.gif" width="800"/>
+</p>
 
 # 🕹️ <span style="font-family: 'Press Start 2P', cursive;">Marc Christian C. Delos Santos</span> 
 
@@ -69,6 +72,4 @@ I'm a passionate developer who loves creating projects and exploring tech!
   />
 </picture>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/43/1c/e5/431ce5d15aab86f66a91ec9a07c9114f.gif" width="800"/>
-</p>
+
