@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320">
+  <style>
+    .repo-title { font-weight: bold; fill: #58a6ff; font-size: 16px; }
+    .repo-meta { fill: #bbb; font-size: 13px; }
+    .public { fill: #238636; font-size: 11px; font-weight: bold; }
+    .private { fill: #8250df; font-size: 11px; font-weight: bold; }
+    .lang { fill: #f1e05a; font-size: 12px; }
+    .divider { stroke: #444c56; stroke-width: 1; }
+    .section-title { fill: #0366d6; font-size: 18px; font-weight: 400; }
+  </style>
+  
+  <text x="20" y="30" class="section-title">Current Directory Repositories</text>
+  
+  <!-- Repo 1 -->
+  <text x="20" y="60" class="repo-title">MERNSTACK_BIMS_BLOCKCHAIN</text>
+  <rect x="255" y="48" width="48" height="18" rx="4" fill="#2d333b"/>
+  <text x="260" y="62" class="private">Private</text>
+  <text x="320" y="62" class="lang">● JavaScript</text>
+  <text x="410" y="62" class="repo-meta">Updated on Aug 11</text>
+  <line x1="20" y1="70" x2="460" y2="70" class="divider"/>
+  
+  <!-- Repo 2 -->
+  <text x="20" y="90" class="repo-title">SiniLikhain-Elect5</text>
+  <rect x="180" y="78" width="38" height="18" rx="4" fill="#238636"/>
+  <text x="185" y="92" class="public">Public</text>
+  <text x="245" y="92" class="lang">● JavaScript</text>
+  <text x="335" y="92" class="repo-meta">Updated on Jun 19</text>
+  <line x1="20" y1="100" x2="460" y2="100" class="divider"/>
+  
+  <!-- Repo 3 -->
+  <text x="20" y="120" class="repo-title">Betsubara</text>
+  <rect x="105" y="108" width="38" height="18" rx="4" fill="#238636"/>
+  <text x="110" y="122" class="public">Public</text>
+  <text x="170" y="122" class="lang">● JavaScript</text>
+  <text x="260" y="122" class="repo-meta">Updated on May 30</text>
+  <line x1="20" y1="130" x2="460" y2="130" class="divider"/>
+  
+  <!-- Repo 4 -->
+  <text x="20" y="150" class="repo-title">Floss1fy</text>
+  <rect x="90" y="138" width="38" height="18" rx="4" fill="#238636"/>
+  <text x="95" y="152" class="public">Public</text>
+  <text x="155" y="152" class="lang">● JavaScript</text>
+  <text x="245" y="152" class="repo-meta">Updated on May 25</text>
+  <line x1="20" y1="160" x2="460" y2="160" class="divider"/>
+  
+  <!-- Repo 5 -->
+  <text x="20" y="180" class="repo-title">Final_Project_SIA</text>
+  <rect x="145" y="168" width="38" height="18" rx="4" fill="#238636"/>
+  <text x="150" y="182" class="public">Public</text>
+  <text x="210" y="182" class="lang">● JavaScript</text>
+  <text x="300" y="182" class="repo-meta">Updated on May 21</text>
+  <line x1="20" y1="190" x2="460" y2="190" class="divider"/>
+  
+  <!-- Repo 6 -->
+  <text x="20" y="210" class="repo-title">SISIPT4</text>
+  <rect x="80" y="198" width="38" height="18" rx="4" fill="#238636"/>
+  <text x="85" y="212" class="public">Public</text>
+  <text x="145" y="212" class="lang">● JavaScript</text>
+  <text x="235" y="212" class="repo-meta">Updated on May 18</text>
+  <line x1="20" y1="220" x2="460" y2="220" class="divider"/>
+  
+  <!-- Repo 7 -->
+  <text x="20" y="240" class="repo-title">Flossify</text>
+  <rect x="80" y="228" width="48" height="18" rx="4" fill="#2d333b"/>
+  <text x="85" y="242" class="private">Private</text>
+  <text x="145" y="242" class="lang">● JavaScript</text>
+  <text x="235" y="242" class="repo-meta">Updated on May 10</text>
+</svg>
