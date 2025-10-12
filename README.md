@@ -39,4 +39,14 @@ Hi there! I'm a passionate frontend developer with a strong interest in building
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </div>
 
-<img><href="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif">
+---
+
+<!-- Fullscreen GIF background (visible on GitHub Preview & Markdown renderers supporting HTML) -->
+<div align="center" style="width:100vw;height:100vh;overflow:hidden;margin:0;padding:0;">
+  <img src="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif" alt="Animated Background" style="width:100vw;height:100vh;object-fit:cover;position:fixed;top:0;left:0;z-index:-1;" />
+</div>
+
+<!-- Fallback for markdown-only renderers -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5d/75/8f/5d758f8778e039a171942a1993334d50.gif" alt="Animated Fullscreen GIF" width="100%" />
+</p>
