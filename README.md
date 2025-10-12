@@ -1,3 +1,9 @@
+## 👋 About Me
+
+Hi there! I'm a passionate frontend developer with a strong interest in building modern, responsive, and user-friendly web applications. I love exploring new technologies and frameworks, and I'm always excited to tackle new challenges in the world of web development.
+
+---
+
 ## 📊 GitHub Analytics & Metrics  
 <div align="center">
   <img src="/metrics.base.svg" alt="GitHub Metrics" width="45%" />
