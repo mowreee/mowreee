@@ -1,4 +1,4 @@
-## 👋 About Me
+## <span style="font-size:2em;">About Me</span>
 
 Hi there! I'm a passionate frontend developer with a strong interest in building modern, responsive, and user-friendly web applications. I love exploring new technologies and frameworks, and I'm always excited to tackle new challenges in the world of web development.
 
