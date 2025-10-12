@@ -42,5 +42,5 @@ Hi there! I'm a passionate frontend developer with a strong interest in building
 ---
 <!-- Fallback for markdown-only renderers -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif" />
+  <img src="https://i.pinimg.com/originals/e2/52/ee/e252ee51fe694b9d14b7a00ae3f4954c.gif" />
 </p>
