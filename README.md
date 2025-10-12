@@ -23,8 +23,9 @@ Hi there! I'm a passionate frontend developer with a strong interest in building
   <img src="/metrics.base.svg" alt="GitHub Metrics" width="45%" />
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" width="45%" />
   <img src="/metrics.plugin.stargazers.worldmap.svg" alt="Stargazer" width="45%" />
-  <img src="/metrics.plugin.anilist.characters.svg" alt="Stargazer" width="45%" />
-  <img src="/metrics.plugin.music.recent.svg" alt="Stargazer" width="45%" />
+  <img src="/metrics.plugin.anilist.characters.svg" alt="Anilist" width="45%" />
+  <img src="/metrics.plugin.music.recent.svg" alt="Music Recents" width="45%" />
+  <img src="/metrics.plugin.activity.svg" alt="Activity" width="45%" />
 </div>
 
 ---
