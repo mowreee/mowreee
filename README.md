@@ -3,9 +3,7 @@
 > **Frontend Developer**  
 > *Building the web, one line of code at a time* 🌐
 
-I'm a passionate frontend developer from the beautiful mountains of Bayombong, Nueva Vizcaya, Philippines 🏔️. Currently studying at **Saint Mary's University**, I'm on a mission to create stunning, responsive, and user-centric web applications that make a difference.
-
-When I'm not coding, you'll find me exploring cybersecurity challenges, gaming, or jamming to my favorite tunes on Spotify! 🎵
+Currently studying at **Saint Mary's University**, I'm on a mission to create stunning, responsive, and user-centric web applications that make a difference.
 
 ---
 
