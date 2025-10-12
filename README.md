@@ -1,21 +1,11 @@
 # <span style="font-size:2.5em;">🚀 Hey there! I'm Marc Christian</span>
 
-> **Frontend Developer | Tech Enthusiast | Problem Solver**  
+> **Frontend Developer**  
 > *Building the web, one line of code at a time* 🌐
 
 I'm a passionate frontend developer from the beautiful mountains of Bayombong, Nueva Vizcaya, Philippines 🏔️. Currently studying at **Saint Mary's University**, I'm on a mission to create stunning, responsive, and user-centric web applications that make a difference.
 
 When I'm not coding, you'll find me exploring cybersecurity challenges, gaming, or jamming to my favorite tunes on Spotify! 🎵
-
----
-
-## 🌟 What I'm About
-
-- 🔭 **Currently Working On:** Building modern web applications with React and Vue.js
-- 🌱 **Learning:** Advanced TypeScript, Node.js, and cybersecurity fundamentals
-- 🎯 **Goal:** To become a full-stack developer and contribute to open-source projects
-- ⚡ **Fun Fact:** I love solving puzzles on TryHackMe when I need a break from frontend development!
-- 🎮 **Hobbies:** Gaming, music production, and exploring new tech trends
 
 ---
 
@@ -50,7 +40,6 @@ When I'm not coding, you'll find me exploring cybersecurity challenges, gaming, 
 ### **Frontend Mastery**
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
@@ -61,8 +50,6 @@ When I'm not coding, you'll find me exploring cybersecurity challenges, gaming, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
 </div>
 
 ### **Tools & Environment**
@@ -74,37 +61,9 @@ When I'm not coding, you'll find me exploring cybersecurity challenges, gaming, 
 </div>
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mowreee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mowreee&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mowreee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%"/>
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🎓 **Student** at Saint Mary's University
-- 📍 **Based in** Bayombong, Nueva Vizcaya, Philippines
-- 👥 **Community**: 15 followers, 15 following
-- 📚 **Repositories**: 16 public projects
-- 🔐 **Cybersecurity Enthusiast** on TryHackMe
-- 💻 **Active Developer** since August 2024
-
----
-
 ## 💭 Philosophy
 
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-I believe in writing clean, maintainable code that speaks for itself. Every project is an opportunity to learn something new and push the boundaries of what's possible on the web.
-
 ---
 
 <div align="center">
