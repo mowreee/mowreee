@@ -29,17 +29,13 @@ Hi there! I'm a passionate frontend developer with a strong interest in building
 
 ## 🌐 Connect with Me
 
-<div align="center">
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="https://steamcommunity.com/id/YOUR_STEAM_ID" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/steam.svg" alt="Steam" width="40" height="40"/>
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:delossantosyowcam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
+  <a href="https://tryhackme.com/p/mowree"><img src="https://img.shields.io/badge/TryHackMe-0FA47F?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a> 
+  <a href="https://github.com/mowreee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> 
+  <a href="https://steamcommunity.com/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a> 
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
+  <a href="https://reddit.com/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a> 
+  <a href="https://open.spotify.com/user/31m2exjv3uwdl6dl2vb65mtotuau"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a> 
+  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> 
+</p>
