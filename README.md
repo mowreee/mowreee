@@ -22,8 +22,8 @@ Hi there! I'm a passionate frontend developer with a strong interest in building
 <div align="center">
   <img src="/metrics.base.svg" alt="GitHub Metrics" width="45%" />
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" width="45%" />
-  <img src="/metrics.plugin.stargazers.worldmap.svg" alt="Stargazer" width="45%" />
   <img src="/metrics.plugin.wakatime.svg" alt="Stargazer" width="45%" />
+  <img src="/metrics.plugin.stargazers.worldmap.svg" alt="Stargazer" width="45%" />
   
 </div>
 
