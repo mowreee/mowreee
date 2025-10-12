@@ -11,10 +11,10 @@
   </tr>
   <tr>
     <td align="center">
-<img alt="" width="400" src="https://github.com/mowreee/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/mowreee/blob/examples/metrics.classic.svg" alt=""></img>
 </td>
 <td align="center">
-<img alt="" width="400" src="https://github.com/mowreee/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/mowreee/blob/examples/metrics.organization.svg" alt=""></img>
 </td>
   </tr>
 </table>
