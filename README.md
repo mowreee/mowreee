@@ -7,21 +7,21 @@
 I’m a **Frontend Developer** who loves crafting interactive, clean, and visually engaging web interfaces.  
 
 - Passionate about **React, Vite, and UI/UX Design**.  
-- Building responsive layouts with **TailwindCSS** and **modern JavaScript**.  
+- Building responsive layouts with **TailwindCSS**, **MUI**, **Ant Design**, and **Chakra UI**.  
 - Always exploring **motion design** and **frontend performance optimization**.
 
 ---
 
-## 🧠 Core Skills
+## Core Skills
 
 - **Languages:** HTML, CSS, JavaScript  
 - **Frameworks:** React, Vite  
-- **Styling:** TailwindCSS, Responsive Design, UI Components  
+- **Styling:** TailwindCSS, MUI, Ant Design, Chakra UI, Responsive Design, UI Components  
 - **Learning:** TypeScript, Next.js, Framer Motion, UI Animation  
 
 ---
 
-## ⚙️ Frontend Tech Stack
+## Frontend Tech Stack
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -29,12 +29,15 @@ I’m a **Frontend Developer** who loves crafting interactive, clean, and visual
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mowreee&show_icons=true&theme=tokyonight" />  
@@ -43,7 +46,7 @@ I’m a **Frontend Developer** who loves crafting interactive, clean, and visual
 
 ---
 
-## 🎧 Now Playing on Spotify
+## Now Playing on Spotify
 
 <p align="center"> 
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m2exjv3uwdl6dl2vb65mtotuau" width="500"/> 
@@ -51,7 +54,7 @@ I’m a **Frontend Developer** who loves crafting interactive, clean, and visual
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center"> 
   <a href="https://www.facebook.com/dlsmcc/"> 
