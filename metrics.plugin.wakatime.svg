@@ -65,24 +65,14 @@
                                 <span class="value">42%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">cum-doloremque</span>
+                                <span class="name">Betsubara</span>
                                 <div class="bar" style="width: 31.200000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">39%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">culpa-ratione</span>
+                                <span class="name">Flossify</span>
                                 <div class="bar" style="width: 15.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">19%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">laudantium-fuga</span>
-                                <div class="bar" style="width: 0.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">atque-ipsa</span>
-                                <div class="bar" style="width: 0.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
