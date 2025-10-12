@@ -2,7 +2,7 @@
 <div align="center">
   <img src="/metrics.base.svg" alt="GitHub Metrics" width="45%" />
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" width="45%" />
-  ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?mowreee=mowreee)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mowreee" alt="WakaTime stats" width="45%" />
 </div>
 
 ---
