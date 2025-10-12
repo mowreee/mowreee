@@ -40,9 +40,3 @@ Hi there! I'm a passionate frontend developer with a strong interest in building
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </div>
-
----
-<!-- Fallback for markdown-only renderers -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e2/52/ee/e252ee51fe694b9d14b7a00ae3f4954c.gif" />
-</p>
