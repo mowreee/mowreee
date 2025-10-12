@@ -10,13 +10,13 @@ Currently taking Bachelor of Science in Information Technology at **Saint Mary's
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="mailto:delossantosyowcam@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
-  <a href="https://github.com/mowreee"><img src="https://img.shields.io/badge/👨‍💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> 
-  <a href="https://tryhackme.com/p/mowree"><img src="https://img.shields.io/badge/🔐_TryHackMe-0FA47F?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a> 
-  <a href="https://open.spotify.com/user/31m2exjv3uwdl6dl2vb65mtotuau"><img src="https://img.shields.io/badge/🎵_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a> 
-  <a href="https://www.youtube.com/@marcchristiandelossantos9573"><img src="https://img.shields.io/badge/📺_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://steamcommunity.com/"><img src="https://img.shields.io/badge/🎮_Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a> 
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
+  <a href="mailto:delossantosyowcam@gmail.com"><img src="https://img.shields.io/badge/_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
+  <a href="https://github.com/mowreee"><img src="https://img.shields.io/badge/_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> 
+  <a href="https://tryhackme.com/p/mowree"><img src="https://img.shields.io/badge/_TryHackMe-0FA47F?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a> 
+  <a href="https://open.spotify.com/user/31m2exjv3uwdl6dl2vb65mtotuau"><img src="https://img.shields.io/badge/_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a> 
+  <a href="https://www.youtube.com/@marcchristiandelossantos9573"><img src="https://img.shields.io/badge/_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://steamcommunity.com/"><img src="https://img.shields.io/badge/_Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a> 
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
 </p>
 
 ---
