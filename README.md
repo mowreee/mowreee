@@ -4,13 +4,20 @@
 
 # <span style="font-family: 'Press Start 2P', cursive;">Marc Christian C. Delos Santos</span>  
 
-I’m a **Frontend Developer** who loves crafting interactive, clean, and visually engaging web interfaces.  
-
-- Passionate about **React, Vite, and UI/UX Design**.  
-- Building responsive layouts with **TailwindCSS**, **MUI**, **Ant Design**, and **Chakra UI**.  
-- Always exploring **motion design** and **frontend performance optimization**.
-
----
+<table>
+  <tr>
+    <th align="center">For user accounts</th>
+    <th align="center">For organization accounts</th>
+  </tr>
+  <tr>
+    <td align="center">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+</td>
+<td align="center">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+</td>
+  </tr>
+</table>
 
 ## Core Skills
 
