@@ -1,0 +1,48 @@
+name: Update README with Current Time
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  push:
+    branches: [ main ]
+  workflow_dispatch:  # Allows manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Update README with current time
+      run: |
+        # Get current UTC time in your preferred format
+        CURRENT_TIME=$(date -u '+%Y-%m-%d %H:%M:%S')
+        
+        # Create or update the timestamp in README
+        if grep -q "Last updated:" README.md; then
+          sed -i "s/Last updated:.*/Last updated: $CURRENT_TIME UTC/" README.md
+        else
+          echo "" >> README.md
+          echo "---" >> README.md
+          echo "Last updated: $CURRENT_TIME UTC" >> README.md
+        fi
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        
+        if git diff --quiet; then
+          echo "No changes to commit"
+        else
+          git add README.md
+          git commit -m "🤖 Auto-update README timestamp"
+          git push
+        fi
