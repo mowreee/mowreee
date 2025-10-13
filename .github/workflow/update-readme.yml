@@ -1,11 +1,11 @@
-name: Update README with Current Time
+name: Auto-Update README Timestamp
 
 on:
   schedule:
     - cron: '0 */6 * * *'  # Every 6 hours
   push:
     branches: [ main ]
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:  # Manual trigger
 
 permissions:
   contents: write
@@ -20,29 +20,35 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         
-    - name: Update README with current time
+    - name: Update README timestamp
       run: |
-        # Get current UTC time in your preferred format
+        # Get current UTC time in your exact format
         CURRENT_TIME=$(date -u '+%Y-%m-%d %H:%M:%S')
         
-        # Create or update the timestamp in README
+        # Update the timestamp in README.md
+        # This looks for any line containing "Last updated:" and replaces it
         if grep -q "Last updated:" README.md; then
-          sed -i "s/Last updated:.*/Last updated: $CURRENT_TIME UTC/" README.md
+          sed -i "s/Last updated: [0-9-]* [0-9:]* UTC/Last updated: $CURRENT_TIME UTC/g" README.md
+          echo "✅ Updated existing timestamp to: $CURRENT_TIME UTC"
         else
+          # If no timestamp exists, add one at the end
           echo "" >> README.md
           echo "---" >> README.md
-          echo "Last updated: $CURRENT_TIME UTC" >> README.md
+          echo "**Last updated:** $CURRENT_TIME UTC" >> README.md
+          echo "✅ Added new timestamp: $CURRENT_TIME UTC"
         fi
         
-    - name: Commit and push changes
+    - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action Bot"
+        git config --local user.name "GitHub Action"
         
+        # Check if there are changes to commit
         if git diff --quiet; then
-          echo "No changes to commit"
+          echo "📝 No changes to commit"
         else
           git add README.md
-          git commit -m "🤖 Auto-update README timestamp"
+          git commit -m "🤖 Update README timestamp: $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
           git push
+          echo "🚀 Successfully updated and pushed README"
         fi
