@@ -3,7 +3,7 @@
 > **Frontend Developer**  
 > *Building the web, one line of code at a time*
 
-Currently taking Bachelor of Science in Information Technology at **Saint Mary's University**, I'm on a mission to create stunning, responsive, and user-centric web applications that make a difference.  
+Currently taking Bachelor of Science in Information Technology at **Saint Mary's University**, I'm on a mission to create stunning, responsive, and user-centric web applications that make a difference.   
 
 ---
 
