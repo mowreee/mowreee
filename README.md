@@ -23,7 +23,7 @@ Currently taking Bachelor of Science in Information Technology at **Saint Mary's
 
 ## 📊 GitHub Analytics & Metrics  
 <div align="center">
-  <img src="/metrics.base.svg" alt="GitHub Metrics" width="45%" />
+  <img src="/metrics.svg" alt="GitHub Metrics" width="45%" />
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" width="45%" />
   <img src="/metrics.plugin.stargazers.worldmap.svg" alt="Stargazer Worldmap" width="45%" />
   <img src="/metrics.plugin.anilist.characters.svg" alt="Anilist Characters" width="45%" />
